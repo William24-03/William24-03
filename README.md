@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Sukuna](img/sukuna5.jpg)
 - 🔭 I’m currently working on **front-end web development projects**
 - 🌱 I’m currently learning **HTML, CSS, JS, Bootstrap, & Tailwind**
 - 👯 I’m looking **to collaborate on front-end web projects and open-source web applications**
@@ -24,3 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me:https://www.instagram.com/in/24wlerens/
 - 😄 Pronouns: **Baka Dev**
 - ⚡ Fun fact: **Every commit is a new episode in my dev journey**
+![Sukuna](img/sukuna5.jpg)
