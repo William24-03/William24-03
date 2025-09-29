@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Wolrd! I'M William Lerens Domo👋
 
 <!--
 **William24-03/William24-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Sukuna](img/sukuna5.jpg)
+- 🔭 I’m currently working on **front-end web development projects**
+- 🌱 I’m currently learning **HTML, CSS, JS, Bootstrap, & Tailwind**
+- 👯 I’m looking **to collaborate on front-end web projects and open-source web applications**
+- 🤔 I’m looking for help with **learning advanced JavaScript frameworks like React or Vue**
+- 💬 Ask me about **HTML, CSS, JavaScript, or responsive web design**
+- 📫 How to reach me:https://www.instagram.com/in/24wlerens/
+- 😄 Pronouns: **Baka Dev**
+- ⚡ Fun fact: **Every commit is a new episode in my dev journey**
